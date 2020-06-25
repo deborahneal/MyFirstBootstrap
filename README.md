@@ -7,3 +7,5 @@
 * [✔] Create a basic HTML structure with some example content
 * [✔] Import Bootstrap
 * [✔] Experiment with Bootstrap features
+* [] Import Bootstrap
+* [] imitate an existing website [npm](https://npmjs.com/)
